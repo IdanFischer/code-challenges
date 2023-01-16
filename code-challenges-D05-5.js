@@ -2,7 +2,7 @@
 // 'xyjz' -> 'Xyjz.'
 
 function capLowerPeriod(str) {
-   let firstLetter = str.indexOf("a", "h", "c")
+   let firstLetter = str.indexOf()
    return firstLetter
     // for (i = 0; i < str)
     // console.log(str)
